@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470708476619",
+    "project_id": "tuktukpools-469aa",
+    "storage_bucket": "tuktukpools-469aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470708476619:android:c3a7acc518332ca0ee594e",
+        "android_client_info": {
+          "package_name": "com.example.tuktukpools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470708476619-nk6djfl4t9himfvrrftc7l8ceavbba5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuOIxIizagcfMPQUlk3c0QLf7AjiGm-tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470708476619-nk6djfl4t9himfvrrftc7l8ceavbba5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
